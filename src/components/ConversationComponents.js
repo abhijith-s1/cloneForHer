@@ -62,8 +62,8 @@ const ConversationComponent = () => {
     return (
     <Container>
         <ProfileHeader>
-        <ProfileImage src="/profile/WhatsApp Image 2024-12-01 at 22.42.39.jpeg" />
-        Gayathri Govind
+        <ProfileImage src="/profile/WhatsApp Image 2024-12-01 at 22.42.19.jpeg" />
+        Abhijith
         </ProfileHeader>
         <MessageContainer>
             {messagesList.map((messageData) => (

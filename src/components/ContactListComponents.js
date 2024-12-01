@@ -95,7 +95,7 @@ const ContactListComponent = () => {
     return( 
         <Container>
         <ProfileInfoDiv>
-            <ProfileImage src= "/profile/WhatsApp Image 2024-12-01 at 22.42.19.jpeg"/>
+            <ProfileImage src= "/profile/WhatsApp Image 2024-12-01 at 22.42.39.jpeg"/>
         </ProfileInfoDiv>
         <SearchBox>
             <SearchContainer>

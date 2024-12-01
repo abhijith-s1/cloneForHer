@@ -39,21 +39,21 @@ export const contactList = [
     {
       id: 2,
       messageType: "TEXT",
-      text: "What's up?",
+      text: "hey!!",
       senderID: 1,
       addedOn: "12:01 PM",
     },
     {
       id: 3,
       messageType: "TEXT",
-      text: "All Good, What about you?",
+      text: "Bye",
       senderID: 0,
       addedOn: "12:00 PM",
     },
     {
       id: 4,
       messageType: "TEXT",
-      text: "I'm good as well",
+      text: "Best:)?? 🧐",
       senderID: 1,
       addedOn: "12:00 PM",
     },
@@ -67,7 +67,7 @@ export const contactList = [
     {
       id: 5,
       messageType: "TEXT",
-      text: "Subscribed to Simplilarn",
+      text: "gud nyt!!! ",
       senderID: 1,
       addedOn: "12:00 PM",
     },
